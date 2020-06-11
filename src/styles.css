@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 0 10px;
+  border: 0px;
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+h1 {
+  margin: 5px;
+}
